@@ -6,6 +6,5 @@ The Bergen antenna is part of a bigger network-in-progress, Kilohertz, which is 
 
 If you are interested in further information about Kilohertz, please visit the <a href="http://martinreiche.com/project/kilohertz/">official project description site.
 
-<iframe src="https://player.vimeo.com/video/177404496?color=ffffff&#38;byline=0&#38;portrait=0&#38;title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 (Last update of this description site: 23 NOV 2016 -- 0910 Z)
+Kilohertz is an artistic project by Berlin-based media artist Martin Reiche. Visit his website at <a href="http://martinreiche.com/">.
