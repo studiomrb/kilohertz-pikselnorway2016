@@ -4,7 +4,7 @@ This is the official repository of the Bergen-based Kilohertz site, which is an 
 
 The Bergen antenna is part of a bigger network-in-progress, Kilohertz, which is a participatory research project about the current state of use of the radio frequency spectrum for military purposes. Goal of this long-term project is to create site-specific DIY antennas in rural (or almost rural) that are tuned in to local military radio communication channels with the attempt to intercept and store evidence of military usages in the RF spectreum and to make them comparable with other places in the world. The project is the first project aiming to create a comprehensive library of military RF usage evidence.
 
-If you are interested in further information about Kilohertz, please visit the <a href="http://martinreiche.com/project/kilohertz/">official project description site.
+If you are interested in further information about Kilohertz, please visit the <a href="http://martinreiche.com/project/kilohertz/">official project description site</a>.
 
 (Last update of this description site: 23 NOV 2016 -- 0910 Z)
 Kilohertz is an artistic project by Berlin-based media artist Martin Reiche. Visit his website at <a href="http://martinreiche.com/">www.martinreiche.com</a>.
